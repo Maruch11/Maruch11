@@ -6,7 +6,7 @@ Analista funcional / soporte en equipos de desarrollo.
 
 Proyecto actual: App-Libreria (Expo + RN + SQLite).
 
-Contacto: linkedin.com/in/mariana-emilia-mazzoccoli
+Contacto: [LinkedIn](https://www.linkedin.com/in/mariana-emilia-mazzoccoli)
 
 <!---
 Maruch11/Maruch11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
