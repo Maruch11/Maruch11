@@ -1,4 +1,4 @@
-Lic. en Seguridad en TIC (IUPFA)
+Lic. en Seguridad en TIC - IUPFA
 
 🌱 I’m interested in working in teams to grow and develop skills for life
 
