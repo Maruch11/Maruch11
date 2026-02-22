@@ -3,7 +3,9 @@ Lic. en Seguridad en TIC (IUPFA)
 🌱 I’m interested in working in teams to grow and develop skills for life
 
 Analista funcional / soporte en equipos de desarrollo.
+
 Proyecto actual: App-Libreria (Expo + RN + SQLite).
+
 Contacto: linkedin.com/in/mariana-emilia-mazzoccoli
 
 <!---
