@@ -1,19 +1,21 @@
-# Hi, I'm Mariana 👋
+🌱 Interested in learning, collaborating, and continuously developing technical skills.
 
-🌱 I’m interested in working in teams to grow and develop skills for life
-
-ICT Security graduate from IUPFA.  
-Functional analyst focused on **AI, Machine Learning, and applied development**.
+ICT Security graduate from IUPFA.
+Functional Analyst interested in AI, Machine Learning, and applied development.
 
 Currently building and exploring:
-- **rag-project**: local LLM proof of concept without GPU
-- **Machine Learning**: dataset preparation for unsupervised training
+
+* rag-project: local LLM proof of concept without GPU
+* Machine Learning experimentation and dataset preparation
+* Python and SQL learning projects
 
 Interested in:
-- RAG systems
-- Local inference
-- Embeddings and vector databases
-- Python, SQL, and backend development
+
+* RAG systems
+* Local inference
+* Embeddings and vector databases
+* Python, SQL, and backend development
+* Local-first AI applications
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/mariana-emilia-mazzoccoli)
